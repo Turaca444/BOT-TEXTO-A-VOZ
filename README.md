@@ -1,11 +1,10 @@
            Instituto Superior Politécnico Córdoba
  
- - Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial -
+ Tecnicatura en Ciencia de Datos e Inteligencia  Artificial
  
  Profesor: Narciso Perez
  
  Alumno: Medina Jorge Sebastiá
-
 
 # BOT-TEXTO-A-VOZ     
 
